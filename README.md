@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hanna Mergui</h1>
 <h3 align="center">A passionate artificial intelligence student at Polytechnique</h3>
 
-- 🔭 I’m currently working on **Shape animation in C++**
+- 🔭 I’m currently working on **Reinforcment learning with Deep Q Learning**
 
 - 🌱 I’m currently learning **Deep Learning for computer vision**
 
