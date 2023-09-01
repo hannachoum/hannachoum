@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hanna Mergui</h1>
 <h3 align="center">A passionate artificial intelligence student at Polytechnique</h3>
 
-- 🔭 I’m currently working on **Reinforcement learning with Deep Q Learning**
+- 🔭 I’m currently working on *Deep learning and computer vision**
 
-- 🌱 I’m currently learning **Deep Learning for computer vision**
+- 🌱 I’m currently learning **computer vision and Ai for healthcare**
 
 - 📝 I regularly write articles on https://www.linkedin.com/in/hanna-mergui
 
