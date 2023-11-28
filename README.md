@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hanna Mergui</h1>
 <h3 align="center">A passionate artificial intelligence student at Polytechnique</h3>
 
-- 🔭 I’m currently working on *Deep learning and computer vision**
+- 🔭 I’m currently in my last year at l'X, working on AI
 
-- 🌱 I’m currently learning **computer vision and Ai for healthcare**
+- 🌱 Willing to pursue my carrer in **AI for healthcare**
 
 - 📝 I regularly write articles on https://www.linkedin.com/in/hanna-mergui
 
 - 📫 How to reach me **hanna.mergui@polytechnique.edu**
-
-- ⚡ Fun fact **I'm funny :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
